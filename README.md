@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7XLS1QLQ)
+# CheckFit
+
+CheckFit is a web-based fitness tracking platform designed to help users monitor their fitness activities, engage in challenges, participate in virtual fitness classes, and connect with a community of fitness enthusiasts. The application aims to promote a healthy lifestyle through gamification and community support.
+
+## Features
+
+- **User Authentication**: Users can log in or sign up to access their personalized fitness dashboard.
+- **Fitness Tracking**: Track daily steps taken and view a history of fitness activities.
+- **Challenges and Leaderboards**: Participate in fitness challenges and compete with others on a leaderboard.
+- **Virtual Fitness Classes**: Join various fitness classes, including Yoga, HIIT, and Pilates, for guided workouts.
+- **Community Interaction**: Share thoughts and experiences with other users through community posts.
+
+## Technologies Used
+
+HTML, CSS, JavaScript
